@@ -1,9 +1,9 @@
-site_name: State of Mayflower Legislation
-site_url: https://mayflower-state-remade.github.io/legislation/
-site_author: State Of Mayflower Remade
-site_description: Active legislation for the State of Mayflower Remade Roblox group
+site_name: State of New York Legislation
+site_url: https://warpedentrance2.github.io/legislation/
+site_author: State Of New York Remade
+site_description: Active legislation for the State of New York  Remade Roblox group
 repo_name: Mayflower-State-Remade/legislation
-repo_url: https://github.com/Mayflower-State-Remade/legislation
+repo_url: WarpedEntrance2/legislation
 
 theme:
   name: material
