@@ -1,8 +1,8 @@
-# State of Mayflower Legislation
+# State of New York Legislation
 
 <p align="left">
-  <a href="https://github.com/Mayflower-State-Remade/legislation/actions"><img
-    src="https://github.com/Mayflower-State-Remade/legislation/workflows/deploy/badge.svg?branch=master"
+  <a href="https://github.com/WarpedEntrance2/legislation/actions"><img
+    src="https://github.com/WarpedEntrance2/legislation/workflows/deploy/badge.svg?branch=master"
     alt="GitHub Action"
   /></a>
 </p>
